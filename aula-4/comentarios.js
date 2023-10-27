@@ -4,7 +4,7 @@
 Comentarios maiores
  */
 
-console.log("Não vejo comentarios além desse")
+console.log("Não vejo comentarios além desse");
 
 /**
  * Topicos e

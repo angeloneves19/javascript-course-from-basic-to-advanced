@@ -33,6 +33,7 @@ console.log(nameClient);
 // Ao declarar o nome de uma variável, não podemos adicionar espaços ou traços.
 // Sempre que vamos declarar uma variável, utilizamos o modo camelCase, que significa que a primeira palavra é minúscula e as demais começam com a primeira letra maiúscula.
 // Case-sensitive => a letra maiúscula e minúscula fazem diferença!
+//Não utilize VAR, utilize let!
 let nameStudent = 'Márcio';
 let namestudent = 'Otavio';
 console.log(nameStudent, namestudent);
